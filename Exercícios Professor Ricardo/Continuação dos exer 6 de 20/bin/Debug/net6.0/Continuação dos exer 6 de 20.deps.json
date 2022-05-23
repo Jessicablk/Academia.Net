@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Continuação dos exer 6 de 20/1.0.0": {
+        "runtime": {
+          "Continuação dos exer 6 de 20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Continuação dos exer 6 de 20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

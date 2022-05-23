@@ -1,0 +1,15 @@
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\bin\Debug\net6.0\Exercicio 9.exe
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\bin\Debug\net6.0\Exercicio 9.deps.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\bin\Debug\net6.0\Exercicio 9.runtimeconfig.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\bin\Debug\net6.0\Exercicio 9.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\bin\Debug\net6.0\Exercicio 9.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\Exercicio 9.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\Exercicio 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\Exercicio 9.AssemblyInfoInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\Exercicio 9.AssemblyInfo.cs
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\Exercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\Exercicio 9.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\refint\Exercicio 9.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\Exercicio 9.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\Exercicio 9.genruntimeconfig.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios\Exercicio 9\obj\Debug\net6.0\ref\Exercicio 9.dll

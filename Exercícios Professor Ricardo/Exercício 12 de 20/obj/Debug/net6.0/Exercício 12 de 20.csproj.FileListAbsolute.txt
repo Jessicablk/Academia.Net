@@ -1,0 +1,15 @@
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\bin\Debug\net6.0\Exercício 12 de 20.exe
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\bin\Debug\net6.0\Exercício 12 de 20.deps.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\bin\Debug\net6.0\Exercício 12 de 20.runtimeconfig.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\bin\Debug\net6.0\Exercício 12 de 20.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\bin\Debug\net6.0\Exercício 12 de 20.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\Exercício 12 de 20.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\Exercício 12 de 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\Exercício 12 de 20.AssemblyInfoInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\Exercício 12 de 20.AssemblyInfo.cs
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\Exercício 12 de 20.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\Exercício 12 de 20.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\refint\Exercício 12 de 20.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\Exercício 12 de 20.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\Exercício 12 de 20.genruntimeconfig.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Exercício 12 de 20\obj\Debug\net6.0\ref\Exercício 12 de 20.dll
