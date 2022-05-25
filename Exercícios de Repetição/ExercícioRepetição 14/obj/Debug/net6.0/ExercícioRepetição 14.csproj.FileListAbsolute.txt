@@ -1,0 +1,15 @@
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\bin\Debug\net6.0\ExercícioRepetição 14.exe
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\bin\Debug\net6.0\ExercícioRepetição 14.deps.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\bin\Debug\net6.0\ExercícioRepetição 14.runtimeconfig.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\bin\Debug\net6.0\ExercícioRepetição 14.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\bin\Debug\net6.0\ExercícioRepetição 14.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\ExercícioRepetição 14.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\ExercícioRepetição 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\ExercícioRepetição 14.AssemblyInfoInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\ExercícioRepetição 14.AssemblyInfo.cs
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\ExercícioRepetição 14.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\ExercícioRepetição 14.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\refint\ExercícioRepetição 14.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\ExercícioRepetição 14.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\ExercícioRepetição 14.genruntimeconfig.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 14\obj\Debug\net6.0\ref\ExercícioRepetição 14.dll

@@ -1,0 +1,15 @@
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\bin\Debug\net6.0\ExercícioRepetição 4.exe
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\bin\Debug\net6.0\ExercícioRepetição 4.deps.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\bin\Debug\net6.0\ExercícioRepetição 4.runtimeconfig.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\bin\Debug\net6.0\ExercícioRepetição 4.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\bin\Debug\net6.0\ExercícioRepetição 4.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\ExercícioRepetição 4.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\ExercícioRepetição 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\ExercícioRepetição 4.AssemblyInfoInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\ExercícioRepetição 4.AssemblyInfo.cs
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\ExercícioRepetição 4.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\ExercícioRepetição 4.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\refint\ExercícioRepetição 4.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\ExercícioRepetição 4.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\ExercícioRepetição 4.genruntimeconfig.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercícios de Repetição\ExercícioRepetição 4\obj\Debug\net6.0\ref\ExercícioRepetição 4.dll

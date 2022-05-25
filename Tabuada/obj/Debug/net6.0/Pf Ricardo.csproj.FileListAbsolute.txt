@@ -1,0 +1,15 @@
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\bin\Debug\net6.0\Pf Ricardo.exe
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\bin\Debug\net6.0\Pf Ricardo.deps.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\bin\Debug\net6.0\Pf Ricardo.runtimeconfig.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\bin\Debug\net6.0\Pf Ricardo.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\bin\Debug\net6.0\Pf Ricardo.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\Pf Ricardo.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\Pf Ricardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\Pf Ricardo.AssemblyInfoInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\Pf Ricardo.AssemblyInfo.cs
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\Pf Ricardo.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\Pf Ricardo.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\refint\Pf Ricardo.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\Pf Ricardo.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\Pf Ricardo.genruntimeconfig.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicios1\Nova pasta\academiaDot.Net\Exercícios Professor Ricardo\Pf Ricardo\obj\Debug\net6.0\ref\Pf Ricardo.dll

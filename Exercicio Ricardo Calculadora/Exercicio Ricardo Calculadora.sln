@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio Ricardo Calculadora", "Exercicio Ricardo Calculadora.csproj", "{A1C147D5-617A-4EE0-A505-BB3B484DB22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C147D5-617A-4EE0-A505-BB3B484DB22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C147D5-617A-4EE0-A505-BB3B484DB22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C147D5-617A-4EE0-A505-BB3B484DB22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C147D5-617A-4EE0-A505-BB3B484DB22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B34F87F-0FF9-49C1-BEC4-9BB55CAD39F9}
+	EndGlobalSection
+EndGlobal

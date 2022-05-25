@@ -1,0 +1,15 @@
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\Pitadas de Classes.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\Pitadas de Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\Pitadas de Classes.AssemblyInfoInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\Pitadas de Classes.AssemblyInfo.cs
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\Pitadas de Classes.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\bin\Debug\net6.0\Pitadas de Classes.exe
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\bin\Debug\net6.0\Pitadas de Classes.deps.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\bin\Debug\net6.0\Pitadas de Classes.runtimeconfig.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\bin\Debug\net6.0\Pitadas de Classes.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\bin\Debug\net6.0\Pitadas de Classes.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\Pitadas de Classes.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\refint\Pitadas de Classes.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\Pitadas de Classes.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\Pitadas de Classes.genruntimeconfig.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Pitadas de Classes\obj\Debug\net6.0\ref\Pitadas de Classes.dll

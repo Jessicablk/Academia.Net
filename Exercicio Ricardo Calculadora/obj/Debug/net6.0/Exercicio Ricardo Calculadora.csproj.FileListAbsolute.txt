@@ -1,0 +1,15 @@
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\bin\Debug\net6.0\Exercicio Ricardo Calculadora.exe
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\bin\Debug\net6.0\Exercicio Ricardo Calculadora.deps.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\bin\Debug\net6.0\Exercicio Ricardo Calculadora.runtimeconfig.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\bin\Debug\net6.0\Exercicio Ricardo Calculadora.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\bin\Debug\net6.0\Exercicio Ricardo Calculadora.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\Exercicio Ricardo Calculadora.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\Exercicio Ricardo Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\Exercicio Ricardo Calculadora.AssemblyInfoInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\Exercicio Ricardo Calculadora.AssemblyInfo.cs
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\Exercicio Ricardo Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\Exercicio Ricardo Calculadora.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\refint\Exercicio Ricardo Calculadora.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\Exercicio Ricardo Calculadora.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\Exercicio Ricardo Calculadora.genruntimeconfig.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Exercicio Ricardo Calculadora\obj\Debug\net6.0\ref\Exercicio Ricardo Calculadora.dll

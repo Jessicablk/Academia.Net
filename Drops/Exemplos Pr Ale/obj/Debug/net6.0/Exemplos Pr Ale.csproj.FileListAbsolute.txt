@@ -1,0 +1,15 @@
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\bin\Debug\net6.0\Exemplos Pr Ale.exe
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\bin\Debug\net6.0\Exemplos Pr Ale.deps.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\bin\Debug\net6.0\Exemplos Pr Ale.runtimeconfig.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\bin\Debug\net6.0\Exemplos Pr Ale.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\bin\Debug\net6.0\Exemplos Pr Ale.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\Exemplos Pr Ale.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\Exemplos Pr Ale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\Exemplos Pr Ale.AssemblyInfoInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\Exemplos Pr Ale.AssemblyInfo.cs
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\Exemplos Pr Ale.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\Exemplos Pr Ale.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\refint\Exemplos Pr Ale.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\Exemplos Pr Ale.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\Exemplos Pr Ale.genruntimeconfig.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\Prof Ale\Exemplos Pr Ale\obj\Debug\net6.0\ref\Exemplos Pr Ale.dll
