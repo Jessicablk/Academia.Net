@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\Exercicio Ricardo Calculadora\\Exercicio Ricardo Calculadora.csproj": {}
+    "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\OrientaçãoObjetos\\Exercício2\\Exercício2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\Exercicio Ricardo Calculadora\\Exercicio Ricardo Calculadora.csproj": {
+    "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\OrientaçãoObjetos\\Exercício2\\Exercício2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\Exercicio Ricardo Calculadora\\Exercicio Ricardo Calculadora.csproj",
-        "projectName": "Exercicio Ricardo Calculadora",
-        "projectPath": "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\Exercicio Ricardo Calculadora\\Exercicio Ricardo Calculadora.csproj",
+        "projectUniqueName": "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\OrientaçãoObjetos\\Exercício2\\Exercício2.csproj",
+        "projectName": "Exercício2",
+        "projectPath": "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\OrientaçãoObjetos\\Exercício2\\Exercício2.csproj",
         "packagesPath": "C:\\Users\\Jéssica Cordeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\Exercicio Ricardo Calculadora\\obj\\",
+        "outputPath": "C:\\Users\\Jéssica Cordeiro\\Desktop\\Projeto UFN\\Exercícios Curso\\Academia.Net\\OrientaçãoObjetos\\Exercício2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
