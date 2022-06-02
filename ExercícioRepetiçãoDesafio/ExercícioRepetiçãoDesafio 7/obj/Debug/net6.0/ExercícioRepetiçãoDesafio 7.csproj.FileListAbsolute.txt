@@ -1,0 +1,15 @@
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\bin\Debug\net6.0\ExercícioRepetiçãoDesafio 7.exe
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\bin\Debug\net6.0\ExercícioRepetiçãoDesafio 7.deps.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\bin\Debug\net6.0\ExercícioRepetiçãoDesafio 7.runtimeconfig.json
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\bin\Debug\net6.0\ExercícioRepetiçãoDesafio 7.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\bin\Debug\net6.0\ExercícioRepetiçãoDesafio 7.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\ExercícioRepetiçãoDesafio 7.csproj.AssemblyReference.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\ExercícioRepetiçãoDesafio 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\ExercícioRepetiçãoDesafio 7.AssemblyInfoInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\ExercícioRepetiçãoDesafio 7.AssemblyInfo.cs
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\ExercícioRepetiçãoDesafio 7.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\ExercícioRepetiçãoDesafio 7.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\refint\ExercícioRepetiçãoDesafio 7.dll
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\ExercícioRepetiçãoDesafio 7.pdb
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\ExercícioRepetiçãoDesafio 7.genruntimeconfig.cache
+C:\Users\Jéssica Cordeiro\Desktop\Projeto UFN\ExercícioRepetiçãoDesafio\ExercícioRepetiçãoDesafio 7\obj\Debug\net6.0\ref\ExercícioRepetiçãoDesafio 7.dll
