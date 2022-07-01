@@ -6,28 +6,26 @@ using System.Threading.Tasks;
 
 namespace Exercício2
 {
-     class Animal
+     internal class Animal
     {
         //atributos
         public string nome;
         public string tipo;
-        public int qntddCachorros;
-        public int qntddGatos;
-        public int qntddPeixes;
+        
+        //metodo construtor e sobrecarga
+        public Animal()
+        {
 
-        public Animal(string nome, string tipo, int qntddCachorros, int qntddGatos, int qntddPeixes)
+        }
+        public Animal(string nome, string tipo)
         {
             this.Nome = nome;
             this.Tipo = tipo;
-            this.QntddCachorros = qntddCachorros;
-            this.QntddGatos = qntddGatos;
-            this.QntddPeixes = qntddPeixes;
         }
+
+        //metodos getters e setters
         public string Nome { get => nome; set => nome = value ; }
         public string Tipo { get => tipo; set => tipo = value ; }
-        public int QntddCachorros { get => qntddCachorros; set => qntddCachorros = value ; }
-        public int QntddGatos { get => qntddGatos; set => qntddGatos = value ; }
-        public int QntddPeixes { get => qntddPeixes; set => qntddPeixes = value ; }
 
         public void exibirInfo()
         {

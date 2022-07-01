@@ -19,14 +19,15 @@ string nome, tipo;
 int qntddCachorros, qntddGatos, qntddPeixes;
 
 Console.WriteLine("Informe o nome do animal: ");
-nome = Console.ReadLine();
-Console.WriteLine("Informe o tipo do animal: ");
-tipo = Console.ReadLine();
+nome = Console.ReadLine().ToUpper();
+Console.WriteLine("Informe o tipo do animal (C) Cachorro, (G) Gato ou (P) Peixe): ");
+tipo = Console.ReadLine().ToUpper();
 
 while (true)
 {
-    if (tipo == "Cachorro" && tipo == "cachorro")
+    if (tipo != "(C)" || tipo != "(G)" || tipo != "(P)")
     {
-        Console.WriteLine()
+        Console.WriteLine("Tipo de animal inválido! Digite um tipo válido.");
     }
+    break;
 }

@@ -1,0 +1,140 @@
+@charset "UTF-8";
+
+body{
+
+    font:1em/1 'Montserrat', sans-serif;
+    color:rgb(18, 11, 11);
+	text-align:center;
+	padding:7em 5%;
+    background-color: rgb(10, 0, 0);
+}
+
+h1{
+    color: hsla(0, 0%, 100%, 0.899);
+    margin:.5em 0;
+    font-size:calc(3vw + 2rem);
+    font-weight:100;
+    text-transform:capitalize;
+    letter-spacing:-.05em;
+}
+
+h2{
+    font-size:1em;
+}
+
+main{
+    margin: 40px;
+    width: 70px;
+    display:flex;
+}
+
+footer{
+    font-size:2em;
+    width:auto;
+    margin: 7px;
+    font: 1em/1 sans-serif;
+}
+
+table tr,tb{
+    padding: 5px 5px ;
+}
+
+.existe{
+    height: 45px;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color:rgba(205, 11, 111, 0.945)
+}
+
+.green{
+    background-color: greenyellow;
+    border-radius: 8px;
+}
+
+.green:hover{
+    background-color: rgb(198, 238, 139);
+}
+
+.blue{
+    background-color: blue;
+    border-radius: 8px;
+}
+
+.blue:hover{
+    background-color: rgb(78, 78, 255);
+}
+
+.orange{
+    background-color: orange;
+    border-radius: 8px;
+}
+
+.orange:hover{
+    background-color: rgb(232, 185, 98);
+}
+
+.yellow{
+    background-color: yellow;
+    border-radius: 8px;
+}
+
+.yellow:hover{
+    background-color: rgb(240, 240, 118);
+}
+
+.darkturquoise{
+    background-color: darkturquoise;
+    border-radius: 8px;
+}
+
+.darkturquoise:hover{
+    background-color: rgb(111, 249, 251);
+}
+
+.deepskyblue{
+    background-color: deepskyblue;
+    border-radius: 8px;
+}
+
+.deepskyblue:hover{
+    background-color: rgb(102, 207, 241);
+}
+
+.cadetblue{
+    background-color: cadetblue;
+    border-radius: 8px;
+}
+
+.cadetblue:hover{
+    background-color: rgb(121, 168, 170);
+}
+
+.lightcoral{
+    background-color: rgb(239, 117, 117);
+    border-radius: 8px;
+}
+
+.lightcoral:hover{
+    background-color: lightcoral;
+}
+
+.aqua{
+    background-color: aqua;
+    border-radius: 8px;
+}
+
+.aqua:hover{
+    background-color: rgb(88, 241, 241);
+}
+
+.purple{
+    background-color: purple;
+    border-radius: 8px;
+}
+
+.purple:hover{
+    background-color: rgb(147, 32, 147);
+}
